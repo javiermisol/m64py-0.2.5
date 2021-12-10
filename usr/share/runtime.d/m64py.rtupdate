@@ -1,0 +1,7 @@
+#! /bin/sh
+set -e
+
+if [ "$1" = rtupdate ]; then
+	py3clean -p m64py /usr/share/games/m64py
+	py3compile -p m64py -V 3.4- /usr/share/games/m64py
+fi
