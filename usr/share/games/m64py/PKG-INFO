@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: m64py
+Version: 0.2.5
+Summary: A frontend for Mupen64Plus
+Home-page: http://m64py.sourceforge.net
+Author: Milan Nikolic
+Author-email: gen2brain@gmail.com
+License: GNU GPLv3
+Description: A Qt5 front-end (GUI) for Mupen64Plus, a cross-platform plugin-based Nintendo 64 emulator.
+Platform: Linux
+Platform: Windows
+Platform: Darwin
+Requires: PyQt5
+Requires: PySDL2
