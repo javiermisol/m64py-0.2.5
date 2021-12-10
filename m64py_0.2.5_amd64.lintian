@@ -1,0 +1,178 @@
+E: m64py: copyright-file-contains-full-gpl-license
+E: m64py: copyright-not-using-common-license-for-gpl
+E: m64py: executable-manual-page usr/share/man/man6/m64py.6.gz
+E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/__pycache__/
+E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/core/__pycache__/
+E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/frontend/__pycache__/
+E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/ui/__pycache__/
+E: m64py: python3-script-but-no-python3-dep usr/share/games/m64py/m64py_run #!/usr/bin/python3
+W: m64py: executable-not-elf-or-script usr/games/m64py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py.egg-info/PKG-INFO
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py.egg-info/SOURCES.txt
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py.egg-info/dependency_links.txt
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py.egg-info/top_level.txt
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/__init__.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/__pycache__/__init__.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/__pycache__/archive.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/__pycache__/loader.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/__pycache__/opts.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/__pycache__/platform.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/__pycache__/utils.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/archive.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/__init__.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/__pycache__/__init__.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/__pycache__/config.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/__pycache__/core.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/__pycache__/defs.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/__pycache__/vidext.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/config.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/core.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/defs.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/core/vidext.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__init__.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/__init__.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/cheat.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/dialogs.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/glwidget.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/input.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/joystick.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/keycodes.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/keymap.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/log.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/mainwindow.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/plugin.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/recentfiles.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/rominfo.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/romlist.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/romreader.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/settings.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/__pycache__/worker.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/cheat.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/dialogs.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/glwidget.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/input.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/joystick.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/keycodes.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/keymap.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/log.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/mainwindow.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/plugin.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/recentfiles.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/rominfo.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/romlist.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/romreader.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/settings.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/frontend/worker.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/loader.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/opts.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/platform.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__init__.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/__init__.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/about_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/archive_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/cheat_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/choices_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/i18n_rc.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/icons_rc.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/images_rc.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/imageview.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/input_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/inputbutton.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/license_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/logview_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/mainwindow_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/plugin_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/romlist_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/__pycache__/settings_ui.cpython-38.pyc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/about.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/about_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/archive.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/archive_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/cheat.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/cheat_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/choices.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/choices_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/i18n.qrc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/i18n/m64py_en.ts
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/i18n_rc.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons.qrc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_about.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_cheats.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_clear.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_emulator.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_fullscreen.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_graphics.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_license.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_log_viewer.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_open_from_list.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_open_manually.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_paths.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_plugins.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_quit.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_reset.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_rom.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_rom_info.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_screenshot.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_speed_down.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_speed_up.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_state_load.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_state_save.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/action_stop.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/plugins_audio.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/plugins_input.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/plugins_rsp.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons/plugins_video.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/icons_rc.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/images.qrc
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/images/controller.svg
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/images/default.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/images/front.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/images/logo.png
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/images_rc.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/imageview.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/input.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/input_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/inputbutton.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/license.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/license_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/logview.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/logview_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/mainwindow.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/mainwindow_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/plugin.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/plugin_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/romlist.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/romlist_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/settings.ui
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/settings_ui.py
+W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/utils.py
+W: m64py: executable-not-elf-or-script usr/share/man/man6/m64py.6.gz
+W: m64py: executable-not-elf-or-script usr/share/pixmaps/m64py.png
+W: m64py: extended-description-line-too-long line 1
+W: m64py: non-standard-dir-perm usr/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/games/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/applications/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/doc/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/doc/m64py/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py.egg-info/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/__pycache__/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/core/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/core/__pycache__/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/frontend/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/frontend/__pycache__/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/ui/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/ui/__pycache__/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/ui/i18n/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/ui/icons/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/games/m64py/m64py/ui/images/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/man/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/man/man6/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/pixmaps/ 0775 != 0755
+W: m64py: non-standard-dir-perm usr/share/runtime.d/ 0775 != 0755
+W: m64py: non-standard-file-perm usr/share/applications/M64Py.desktop 0664 != 0644
+W: m64py: non-standard-file-perm usr/share/doc/m64py/changelog.gz 0664 != 0644
+W: m64py: non-standard-file-perm usr/share/doc/m64py/copyright 0664 != 0644
