@@ -1,11 +1,17 @@
 E: m64py: copyright-file-contains-full-gpl-license
 E: m64py: copyright-not-using-common-license-for-gpl
+E: m64py: description-synopsis-is-duplicated line 1
 E: m64py: executable-manual-page usr/share/man/man6/m64py.6.gz
 E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/__pycache__/
 E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/core/__pycache__/
 E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/frontend/__pycache__/
 E: m64py: package-installs-python-pycache-dir usr/share/games/m64py/m64py/ui/__pycache__/
-E: m64py: python3-script-but-no-python3-dep usr/share/games/m64py/m64py_run #!/usr/bin/python3
+E: m64py: python3-script-but-no-python3-dep /usr/bin/python3 (does not satisfy python3:any | python3-minimal:any) [usr/share/games/m64py/m64py_run]
+E: m64py: script-without-interpreter [postinst]
+E: m64py: script-without-interpreter [prerm]
+W: m64py: control-file-is-empty postinst
+W: m64py: control-file-is-empty prerm
+W: m64py: duplicate-changelog-files usr/share/doc/m64py/changelog.gz usr/share/doc/m64py/m64py/changelog.gz
 W: m64py: executable-not-elf-or-script usr/games/m64py
 W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py.egg-info/PKG-INFO
 W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py.egg-info/SOURCES.txt
@@ -148,7 +154,7 @@ W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/ui/settings_u
 W: m64py: executable-not-elf-or-script usr/share/games/m64py/m64py/utils.py
 W: m64py: executable-not-elf-or-script usr/share/man/man6/m64py.6.gz
 W: m64py: executable-not-elf-or-script usr/share/pixmaps/m64py.png
-W: m64py: extended-description-line-too-long line 1
+W: m64py: extended-description-line-too-long line 2
 W: m64py: non-standard-dir-perm usr/ 0775 != 0755
 W: m64py: non-standard-dir-perm usr/games/ 0775 != 0755
 W: m64py: non-standard-dir-perm usr/share/ 0775 != 0755
@@ -174,5 +180,6 @@ W: m64py: non-standard-dir-perm usr/share/man/man6/ 0775 != 0755
 W: m64py: non-standard-dir-perm usr/share/pixmaps/ 0775 != 0755
 W: m64py: non-standard-dir-perm usr/share/runtime.d/ 0775 != 0755
 W: m64py: non-standard-file-perm usr/share/applications/M64Py.desktop 0664 != 0644
-W: m64py: non-standard-file-perm usr/share/doc/m64py/changelog.gz 0664 != 0644
-W: m64py: non-standard-file-perm usr/share/doc/m64py/copyright 0664 != 0644
+W: m64py: non-standard-file-perm usr/share/doc/m64py/m64py/changelog.gz 0664 != 0644
+W: m64py: non-standard-file-perm usr/share/doc/m64py/m64py/copyright 0664 != 0644
+W: m64py: possible-unindented-list-in-extended-description line 7

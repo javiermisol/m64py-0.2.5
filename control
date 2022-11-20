@@ -1,0 +1,35 @@
+Package: m64py
+Version: 0.2.5
+Maintainer: javiermisol <admin@losvideosdemisol.es>
+Section: games
+Architecture: amd64
+Priority: optional
+Depends: mupen64plus-rsp-hle (>=2.5), mupen64plus-rsp-z64 (>=2.5), mupen64plus-input-sdl (>=2.5), mupen64plus-audio-sdl (>=2.5), mupen64plus-video-arachnoid (>=2.5), mupen64plus-video-z64 (>=2.5), mupen64plus-video-glide64 (>=2.5), mupen64plus-video-rice (>=2.5), mupen64plus-video-glide64mk2 (>=2.5), mupen64plus-core (>=2.5), mupen64plus-audio-all (>=2.5), mupen64plus-input-all (>=2.5), mupen64plus-input-all (>=2.5), mupen64plus-rsp-all (>=2.5), mupen64plus-video-all (>=2.5)
+Description: Python based graphical frontend for mupen64plus
+ Python based graphical frontend for mupen64plus
+ M64Py is a Qt5 front-end (GUI) for Mupen64Plus, a cross-platform plugin-based Nintendo 64 emulator. M64Py is written in Python and it provides a user-friendly interface over Mupen64Plus shared library. Features:
+ *
+ Changeable emulation plugins for audio, core, input, rsp, video
+ *
+ Selection of emulation core
+ *
+ Configuration dialogs for core, plugin and input settings
+ *
+ ROMs list
+ *
+ Input bindings configuration
+ *
+ Cheats support
+ *
+ Support gzip, bzip2, zip, rar and 7z archives
+ *
+ Video extension (embedded OpenGL window) Dependencies:
+ * PyQt5
+ * PySDL2 ChangeLog:
+ *
+ GLideN64 plugin is now included in binary releases
+ * Fix video extension
+ *
+ Remove DelaySI option
+ * Change setup.py to Setuptools and refactor bits of code
+ * Bug fixes
