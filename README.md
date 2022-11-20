@@ -22,4 +22,4 @@ Características:
 * * Cambiar setup.py a Setuptools y refactorizar bits de código 
 * * Error arregla
 
-Paquete deb 64 bits para ubuntu focal.
+Paquete deb 64 bits para ubuntu focal,jammy.
